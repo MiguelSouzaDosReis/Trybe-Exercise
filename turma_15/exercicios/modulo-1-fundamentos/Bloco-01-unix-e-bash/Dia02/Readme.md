@@ -1,4 +1,4 @@
-                                                   Parte I - Comandos de Input e Output
+                                              Parte I - Comandos de Input e Output
                                                                 
 1.Navegue até a pasta unix_tests;
 
