@@ -1,0 +1,28 @@
+1.  Na pasta unix_test baixei o arquivo com os nomes de todos os países
+
+2.  Utilizei o comando cat para mostra todo conteúdo do arquivo countries.txt
+
+3.  Utilizei o comando less para mostra página por página o conteúdo do arquivo contries.txt até encontrar Zambia
+
+4.  Mostrei o conteúdo página por página e depois utilizei o comando grep para buscar por Zambia
+
+5.  Utilizei o comando grep para procurar por Brazil em countries.txt
+
+6.  Utilizei o comando grep -i para procurar por brazil em countries.txt
+
+7.  Criei um arquivo chamado phrase.txt com algumas frases (a raposa fox foi para a floresta de manhã,e lá encontro willy o seu amigo, e os 2 vive em felicidades, fim.) depois disso usei o comando grep -v 'fox' para pesquisas as frases que não tinham a palavra fox
+
+
+8.  Utilizei o comando wc -w para contar as palavras que tinham no arquivo phrases.txt
+
+9.  Utilizei o comando wc -l para contar as linhas que tinham no arquivo phrases.txt
+
+10. Utilizei o touch para criar 2 arquivos vazios oh empty.tbt e empty.pdf
+
+11. Utilizei o ls para listar todos os arquivos do diretório unix_tests
+
+12. Utilizei o ls *.txt para lista todos os arquivos txt do diretório unix_test
+
+13. Utilizei o ls *.txt *.tbt para lista todos os arquivos txt e tbt do diretório unix_tests
+
+14. Utilizei o man ls para ver o manual do comando do ls

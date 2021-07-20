@@ -1,0 +1,21 @@
+1.   Utilizei o comando cd para navegar na pasta unix_test
+
+2.   Eu criei um arquivo de texto chamado skills2.txt utilizando o cat > e coloquei os valores que são: Internet , Unix e Bash , um em cada linha.
+
+3.   Usei o cat >> para adicionar mais 5 valores na minha lista e depois disso usei o sort para colocar os meus valores em ordem
+
+4.   Usei wc -l para contar a quantidade de linhas 
+
+5.   Bom usei o cat skills2.txt | sort | head -3 > top_skills.txt
+
+6.   Fiz um mkdir phrases2.txt e adicionei as seguintes frases (as maças do brasil são belas, vulgo br, que bom que belo)	
+
+7.   Fiz um grep -c que conta os números de linhas nas letras br
+
+8.   Fiz um grep -cv para contar os números de quantas linhas não tem a letra br
+
+9.   Nesse fiz um cat >> phrases2.txt para adicionar 2 países, Alemanha, Austrália
+
+10.  Bom nessa atividade fiz um cat phrases2.txt | cat >> countries.txt e depois fiz cat countries.txt | cat > bunch_of_things.txt
+
+11.  E nesse usei o sort no bunch_of_things.txt para ordena ele

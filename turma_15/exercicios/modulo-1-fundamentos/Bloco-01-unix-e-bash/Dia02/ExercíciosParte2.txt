@@ -1,0 +1,9 @@
+1. Usei o cd para entra na pasta unix_tests
+
+2. E digitei o comando ls-l para lista as permissões
+	
+3. Mudei as permissões do arquivo bunch_of_things.txt utilizando chmod a+rw para que todos os usuários possam ter acesso á leitura e escrita
+
+4. Tirei a permissão da escrita para todos os usuários do arquivo bunch_of_things.txt usando chmod a-w bunch_of_things.txt e depois verifiquei usando ls -l
+
+5. Usei o comando chmod 644 bunch_of_things.txt para lista inicialmente

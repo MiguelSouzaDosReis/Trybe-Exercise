@@ -1,0 +1,39 @@
+1.  Utilizei mkdir para criar o diretório unix_tests e utilizei cd unixe_tests para navegar até ele
+
+2.  Utilizei o comando touch para criar um arquivo como nome trybe.txt
+
+3.  Criei uma copia do arquivo utilizando o comando cp com o nome trybe_backup.txt
+
+4.  Renomeie o arquivo trybe.txt utilizando o mv
+
+5.  Criei um diretório  como mkdir chamado backup
+
+6.  Utilizei o mv para mover o arquivo trybe_backup.txt para o diretório backup
+
+7.  Dentro de unix_tests utilizei o mkdir para criar um diretório chamado backup2
+
+8.  Utilizei o mv backup/trybe_backup.txt backup2 para mover o arquivo trybe_backup.txt para a pasta backup2
+
+9.  Utilizei o rm para apagar a pasta backup
+
+10. Utilizei o mv para renomear a pasta backup2 para backup
+
+11. pwd para saber o caminho completo para o diretório atual e depois utilizei o ls para lista todos os arquivos dentro dele
+
+12. Utilizei o rm -rf para apagar a pasta backup
+
+13. Utilizei o clear ou Ctrl l para limpa o terminal
+
+14. Com touch criei um arquivo chamado skills.txt e adicionei as seguintes palavras:           
+Internet
+Unix
+Bash
+HTML
+CSS
+JavaScript
+React
+SQL
+
+Número 15. Utilizei o comando head -5 para mostra as 5 primeiras skills do arquivo skills.txt
+
+Número 16. Utilizei rm *txt para apagar todos os arquivos que terminam em txt

@@ -1,0 +1,17 @@
+1. Listei todos os processos usando o comando jobs
+
+2. Usei sleep 30&
+
+3. Usei o comando ps para lista os processos e depois usei kill com PID do sleep30
+
+4. Bom eu executei o comando sleep 30 depois, apertei Ctrl z para suspender o processo e depois usei o comando bg %1 para fazer com que sleep continue sendo executado em background
+
+5. Usei o comando sleep 300&
+
+6. Bom eu usei o sleep 200 depois apertei Ctrl z depois fiz o sleep 100 e apertei Ctrl Z
+
+7. Eu verifiquei que apenas o processo sleep 300 esta em execução com o comando jobs e depois eu usei fg %1 e apertei Ctrl Z
+
+8. Retornei a execução do processo sleep 100 usando o bg %3
+
+ 9. Usei o kill e matei todos
