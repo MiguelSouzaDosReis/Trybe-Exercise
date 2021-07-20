@@ -85,7 +85,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: IntroduÃ§Ã£o - React
+##### Bloco 11: Introdução - React
 
 - [ ] 11-1: _'Hello, world!' no React!_
 - [ ] 11-2: _Componentes React_
@@ -112,7 +112,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 187
 ​
 188
-- [ ] 26-1: _NodeJS - IntroduÃ§Ã£o_
+- [ ] 26-1: _NodeJS - Introdução_
 189
 - [ ] 26-2: _NodeJS - Fluxo AssÃ•ncrono_
 190
@@ -128,7 +128,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 195
 - [ ] 27-1: _Express: HTTP com Node.js_
 196
-- [ ] 27-2: _Arquitetura de Software - IntroduÃ§Ã£o ao MVC_
+- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
 197
 - [ ] 27​
 186
@@ -136,7 +136,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 187
 ​
 188
-- [ ] 26-1: _NodeJS - IntroduÃ§Ã£o_
+- [ ] 26-1: _NodeJS - Introdução_
 189
 - [ ] 26-2: _NodeJS - Fluxo AssÃ•ncrono_
 190
