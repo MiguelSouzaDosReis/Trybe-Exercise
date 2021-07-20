@@ -22,7 +22,7 @@
 
 11.Ordene o arquivo bunch_of_things.txt .
 
-                                                          Parte II - Permissões
+                                                   Parte II - Permissões
                                                                      
 1.Navegue até a pasta unix_tests ;
 
@@ -37,7 +37,7 @@ Resultado esperado: -r--r--r-- 1 ana ana 1860 ago 13 11:39 bunch_of_things.txt
 5.Volte à permissão do arquivo bunch_of_things.txt para a listada inicialmente utilizando o comando chmod 644 bunch_of_things.txt .
 Resultado esperado: -rw-r--r-- 1 ana ana 1860 ago 13 11:39 bunch_of_things.txt 
 
-                                                         Parte III - Processos & Jobs
+                                                  Parte III - Processos & Jobs
                                                                     
 1.Liste todos os processos;
 
