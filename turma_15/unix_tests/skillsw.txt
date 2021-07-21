@@ -1,7 +1,0 @@
-Internet
-Unix
-Bash
-um
-dois
-tres
-quatro
