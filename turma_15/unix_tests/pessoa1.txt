@@ -1,1 +1,0 @@
-#7 Fácil integração com outras linguagens através do uso de api
