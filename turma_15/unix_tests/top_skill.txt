@@ -1,0 +1,8 @@
+bash
+flavio
+gustavo 
+internet
+shamito
+unix
+vito
+william
