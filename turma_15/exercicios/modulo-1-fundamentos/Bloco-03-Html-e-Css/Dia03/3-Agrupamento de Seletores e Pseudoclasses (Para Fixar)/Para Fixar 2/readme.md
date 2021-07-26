@@ -1,5 +1,6 @@
 										Para fixar II
-																				                                                                                                      1 - Estilize as divs para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda.
+																				                                                                                                                                                                      
+1 - Estilize as divs para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda.
 
 2 - Faça cada div ter uma cor própria.
 
