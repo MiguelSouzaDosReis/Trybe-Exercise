@@ -1,4 +1,4 @@
-										Para fixar
+								Para fixar
 
 1 - Posicione o Mário acima do Goomba.
 

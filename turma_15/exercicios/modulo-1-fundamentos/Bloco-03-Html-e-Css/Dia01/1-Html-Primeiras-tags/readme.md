@@ -1,4 +1,4 @@
-										Para fixar
+						             Para fixar  
 
 1 - Crie uma lista das pessoas que você já fez amizade na Trybe.
 
