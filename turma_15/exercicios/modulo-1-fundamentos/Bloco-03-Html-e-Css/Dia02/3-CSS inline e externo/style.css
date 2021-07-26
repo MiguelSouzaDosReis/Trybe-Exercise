@@ -1,0 +1,20 @@
+
+.Amarelo{background-color: yellow;}
+.Marrom{background-color: brown;}
+.Vermelho{background-color: red;}
+
+
+        .Tamanho{width: 65px;}
+        .Cor{color: orange;}
+        .Fundo{background-color:blueviolet;}
+
+        .fonte{font-family: sans-serif;}
+        .FonteGrande{font-weight: 600px;}
+        body{ font-size: 16px;}
+        .TresVezes{font-size: 100px;}
+        
+        .estilo{font-style: italic;}
+        .linha{line-height: normal;}
+        .alinhamentoDeTexto{text-align: center;}
+        .decoracaoDeTexto{text-decoration-line: line-through;} 
+ 

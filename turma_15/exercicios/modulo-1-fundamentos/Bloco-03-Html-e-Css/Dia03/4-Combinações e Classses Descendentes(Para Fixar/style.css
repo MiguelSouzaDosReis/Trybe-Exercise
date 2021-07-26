@@ -1,0 +1,27 @@
+.verde{color: green;}
+
+.amarelo{background-color: yellow;}
+
+.maiusculo{ text-transform:uppercase;}
+
+.vermelho{ color: red;}
+
+.aumentar{font-size: 40px;border: black solid 1px;}
+
+.vinte{ font-size: 20px;}
+
+.negrito{ font-weight: bolder;}
+
+.azul{color: blue;}
+
+.rosa{background-color: pink;}
+
+.PassarOMouse:hover{font-weight: bolder;}
+
+.StackOverflow:hover{color: orange;}
+
+.W3Schools:hover{color: green;}
+
+.MDN:hover{color: black;}
+
+.DevDocs:hover{color: yellow;}

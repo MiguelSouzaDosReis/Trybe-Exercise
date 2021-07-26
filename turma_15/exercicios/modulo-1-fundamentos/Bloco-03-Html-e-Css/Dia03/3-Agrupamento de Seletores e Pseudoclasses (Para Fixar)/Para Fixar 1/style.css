@@ -1,0 +1,6 @@
+   .Centralizando{text-align: center;}
+
+    li:hover{color: aqua}
+
+    li:active{font-family: sans-serif;}
+    ul, ol{list-style: none}
