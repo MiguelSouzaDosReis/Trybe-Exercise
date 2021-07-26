@@ -1,4 +1,4 @@
-									Para fixar II
+							Para fixar II
 																				                                                                                                                                                                      
 1 - Estilize as divs para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda.
 
