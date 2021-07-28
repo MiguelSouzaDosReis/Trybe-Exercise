@@ -1,0 +1,31 @@
+.centro{text-align: center;}
+
+.quebra{width: 700px;}
+
+.EspaçoDeLetra{margin: 4px;}
+
+.LadoALado {
+    float:right; position: absolute;
+    right: 0;
+    top:0;
+    margin-top: 140px;
+    margin-right: 10px;
+    display: block;
+    width: 400px;
+
+}
+
+
+.TextoALado {
+    float:right;
+    margin-top: 150px;
+    margin-right: 10px;
+    
+
+}
+
+.TiraPonto{
+    list-style-type: style type none;
+    
+}
+
