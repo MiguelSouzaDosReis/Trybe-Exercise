@@ -5,4 +5,4 @@ for (let index = 0; index < numbers.length; index++) {
         console.log(results)
         break
 }
-}
+}   

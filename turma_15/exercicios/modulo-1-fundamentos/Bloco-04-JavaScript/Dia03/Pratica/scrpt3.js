@@ -1,14 +1,16 @@
 let espaco = " "
 let asterisco = "*"
 let linha = 0
-const LINHAS_MAX = 5
+let n = 5
 
-for(let linha=0;linha<LINHAS_MAX;linha++){
-    for(let j = linha;j<LINHAS_MAX;j++){
+if (n>1) {
+    
+for(let linha=0;linha<n;linha++){
+    for(let j = linha;j<n;j++){
         process.stdout.write(espaco)
     }
     for(let i=0;i<=linha;i++){
         process.stdout.write(asterisco)
     }
     process.stdout.write("\n")
-}
+}}
