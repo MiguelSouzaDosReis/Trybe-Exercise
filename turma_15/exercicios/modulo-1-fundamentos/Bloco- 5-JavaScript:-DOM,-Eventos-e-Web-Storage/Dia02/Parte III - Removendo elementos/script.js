@@ -1,0 +1,11 @@
+let pai = document.getElementById("pai")
+let primeiroFilho = document.getElementById("primeiroFilho")
+let terceiroFilho = document.getElementById("terceiroFilho")
+let quarto = document.getElementById("quartoEUltimoFilho")
+let elemento = document.getElementById("elementoOndeVoceEsta")
+let segundo = document.getElementById("segundoEUltimoFilhoDoFilho")
+pai.removeChild(primeiroFilho)
+pai.removeChild(terceiroFilho)
+pai.removeChild(quarto)
+elemento.removeChild(segundo)
+
