@@ -1,6 +1,5 @@
 let espaco = " "
 let asterisco = "*"
-let linha = 0
 let n = 5
 
 if (n>1) {

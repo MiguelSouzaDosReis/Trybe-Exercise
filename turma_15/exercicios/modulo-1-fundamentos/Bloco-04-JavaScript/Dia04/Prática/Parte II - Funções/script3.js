@@ -1,8 +1,8 @@
-let numbers = [2, 3, 6, 7, 10, 1]
+let numbers = [2, 4, 6, 7, 10, 0, -3]
 let maior = 0
 
 for (let index = 0; index < numbers.length; index++) {
-     if (maior > numbers[index]) {
+     if (numbers[maior] < numbers[index]) {
          } else {
              maior = index
          }

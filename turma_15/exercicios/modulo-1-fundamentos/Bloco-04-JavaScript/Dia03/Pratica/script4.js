@@ -1,22 +1,25 @@
-let espaco = " "
-let asterisco = "*"
-let linha = 0
+//tive dificuldades e olhei o gabarito
+
 let n = 5
+let meio = (n + 1) / 2
+let asterisco = "*"
+let espaco = ""
+let esquerda = meio;
+let direita = meio;
 
-if (n>1) {
-    
-for(let linha=0;linha<n;linha++){
-    for(let j = linha;j<n;j++){
-        process.stdout.write(espaco)
+for (let i= 0; i<= meio; i++) {
+    for (let j = 0; j <= n; j ++) {
+      if (j > esquerda && j < direita) {
+        espaco = espaco + asterisco;
+      } else {
+        espaco = espaco + ' ';
+      }
     }
-    for(let i=0;i=linha;i++){
-        process.stdout.write(asterisco)
-    }
-    process.stdout.write("\n")
-}}
-
-
-
+    console.log(espaco);
+    espaco = '';
+    direita += 1;
+    esquerda -= 1;
+}
 
 
 
