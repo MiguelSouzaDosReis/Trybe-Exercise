@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" method="get">
+        <fieldset>Nome:
+            <input type="text" maxlength="40" required class="apagar">Email:
+            <input type="text" maxlength="50" required class="apagar">CPF:
+            <input type="text" maxlength="11" required class="apagar">Cidade: 
+            <input type="text" maxlength="28" required class="apagar">Estado:
+            <select name="Estado" id="estado" class="apagar"></select>Casa, Apartamento
+            <input type="radio button" value="" required class="apagar">
+        </fieldset>
+        <fieldset>
+            <h2>Resumo do currículo:</h2>
+           <textarea name="" id="" cols="30" rows="10" maxlength="1000" required class="apagar"></textarea>
+           <p>Cargo:</p>
+           <input id="cargo" type="text" value=""required maxlength="40" class="apagar"> 
+           <p>Descrição do cargo </p>
+           <input id="descricao" type="text" value="" required maxlength="500" class="apagar">
+           <input type="date" value="" required class="apagar">
+           <br> <br>
+           <button type="submit" id="botao">Enviar</button>
+        </fieldset>
+    </form> 
+    <script src="script.js"></script>
+</body>
+</html>
