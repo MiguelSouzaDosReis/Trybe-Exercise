@@ -73,16 +73,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
-- [ ] 9-1: _JavaScript AssÃ­ncrono e Callbacks_
+- [ ] 9-1: _JavaScript Assíncrono  e Callbacks_
 - [ ] 9-2: _JavaScript Promises_
 - [ ] 9-3: _[Projeto - Carrinho de Compras]()_
 
 ##### Bloco 10: Jest
 
 - [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes AssÃ­ncronos_
+- [ ] 10-2: _Jest - Testes Assíncrono_
 - [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest AssÃ­ncrono e Mocking]()_
+- [ ] 10-4: _[Projeto - Jest Assíncrono  e Mocking]()_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -115,7 +115,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 188
 - [ ] 26-1: _NodeJS - Introdução_
 189
-- [ ] 26-2: _NodeJS - Fluxo AssÃ•ncrono_
+- [ ] 26-2: _NodeJS - Fluxo Assíncrono _
 190
 - [ ] 26-3: _NodeJS - Arquitetura_
 191
@@ -139,7 +139,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 188
 - [ ] 26-1: _NodeJS - Introdução_
 189
-- [ ] 26-2: _NodeJS - Fluxo AssÃ•ncrono_
+- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
 190
 - [ ] 26-3: _NodeJS - Arquitetura_
 191
@@ -202,7 +202,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 16-2: _React com Redux - Parte 1_
 - [ ] 16-3: _React com Redux - PrÃ¡tica_
 - [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes sÃ­ncronos com React-Redux_
+- [ ] 16-5: _Testes Assíncrono  com React-Redux_
 - [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
 
 ##### Bloco 17: Projeto React
@@ -266,7 +266,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 26: Intro - NodeJS
 
 - [ ] 26-1: _NodeJS - IntroduÃ§Ã£o_
-- [ ] 26-2: _NodeJS - Fluxo AssÃ­ncrono_
+- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
 - [ ] 26-3: _NodeJS - Arquitetura_
 - [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
 
@@ -329,6 +329,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 35-1: _Aprendendo Python_
 - [ ] 35-2: _Testes e Excecuções_
-- [ ] 35-3: _Entrada e Sai­da de dados_
-- [ ] 36-4: _Entrada e Sai­da de dados_
+- [ ] 35-3: _Entrada e Saída de dados_
+- [ ] 36-4: _Entrada e Saída de dados_
 - [ ] 35-5: _[Projeto - Tech news]()_
