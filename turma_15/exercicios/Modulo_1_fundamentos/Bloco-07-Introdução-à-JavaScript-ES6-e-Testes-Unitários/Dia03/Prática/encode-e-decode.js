@@ -1,3 +1,4 @@
+const assert = require('assert');
 function encode(codigo) {
     let encode = [];
     for (let index = 0; index < codigo.length; index++) {
@@ -18,8 +19,7 @@ function encode(codigo) {
   
     return (encode.join(''));
   }
-  encode('hello');
-  function decode(codigo) {
+      function decode(codigo) {
     let decode = [];
     for (let index = 0; index < codigo.length; index++) {
       if (codigo[index] == 1) {
@@ -38,3 +38,9 @@ function encode(codigo) {
     }
     return (decode.join(''));
   }
+
+  assert.deepStrictEqual(encode('a, e, i, o, u'),'1, 2, 3, 4, 5')
+  assert.deepStrictEqual(decode('1, 2, 3, 4, 5'),'a, e, i, o, u')
+  assert.deepStrictEqual(encode('z'),'z')
+  assert.deepStrictEqual(decode(7),'')
+  assert.deepStrictEqual(decode('string').length, 'string'.length )

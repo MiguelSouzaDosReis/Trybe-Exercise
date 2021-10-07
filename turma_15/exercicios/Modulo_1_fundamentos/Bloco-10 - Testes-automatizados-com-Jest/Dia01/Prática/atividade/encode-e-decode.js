@@ -18,7 +18,6 @@ function encode(codigo) {
   
     return (encode.join(''));
   }
-  // console.log(encode('z'))
   function decode(codigo) {
     let decode = [];
     for (let index = 0; index < codigo.length; index++) {
@@ -38,6 +37,5 @@ function encode(codigo) {
     }
     return (decode.join(''));
   }
-  console.log(decode(7))
- 
+
 module.exports = {encode, decode}

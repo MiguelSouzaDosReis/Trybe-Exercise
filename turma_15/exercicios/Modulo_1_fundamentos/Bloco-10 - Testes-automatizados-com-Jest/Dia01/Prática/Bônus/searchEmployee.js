@@ -59,4 +59,4 @@ const professionalBoard = [
   };
   searchEmployee('1256-4', 'firstName')
   
-  module.exports = searchEmployee;;
+  module.exports = searchEmployee;
