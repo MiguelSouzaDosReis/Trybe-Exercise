@@ -108,7 +108,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 14: Metodologias Ágeis
 
 - [:white_check_mark: ] 14: _Metodologias Ágeis_
-186
+- 
 ##### Bloco 26: Intro - NodeJS
 187
 ​
