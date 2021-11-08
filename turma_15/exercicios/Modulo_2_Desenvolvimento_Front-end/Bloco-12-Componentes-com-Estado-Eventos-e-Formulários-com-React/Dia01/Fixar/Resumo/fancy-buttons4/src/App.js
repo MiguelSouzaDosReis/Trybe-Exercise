@@ -10,7 +10,7 @@ class App extends React.Component{
     this.PassoOClick = this.PassoOClick.bind(this)
     this.state = {
       numero1: 0,
-      numero2: 0,
+      numero  2: 0,
       numero3: 0
     }
     
