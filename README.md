@@ -73,9 +73,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
-- [ ] 9-1: _JavaScript Assíncrono  e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+- [:white_check_mark: ] 9-1: _JavaScript Assíncrono  e Callbacks_
+- [:white_check_mark: ] 9-2: _JavaScript Promises_
+- [:white_check_mark: ] 9-3: _[Projeto - Carrinho de Compras]()_
 
 ##### Bloco 10: Jest
 
@@ -95,19 +95,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 12: React
 
 - [:white_check_mark: ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e Formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [:white_check_mark: ] 12-2: _Eventos e Formulários no React_
+- [:white_check_mark: ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
 ##### Bloco 13: React
 
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [:white_check_mark: ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
+- [:white_check_mark: ] 13-2: _Ciclo de vida de componentes em React_
+- [:white_check_mark: ] 13-3: _React Router_
+- [:white_check_mark: ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
 
-##### Bloco 14: Metodologias Ãgeis
+##### Bloco 14: Metodologias Ágeis
 
-- [ ] 14​
+- [:white_check_mark: ] 14: _Metodologias Ágeis_
 186
 ##### Bloco 26: Intro - NodeJS
 187
