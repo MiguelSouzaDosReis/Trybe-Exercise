@@ -108,93 +108,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 14: Metodologias Ágeis
 
 - [:white_check_mark: ] 14: _Metodologias Ágeis_
-- 
-##### Bloco 26: Intro - NodeJS
-187
-​
-188
-- [ ] 26-1: _NodeJS - Introdução_
-189
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono _
-190
-- [ ] 26-3: _NodeJS - Arquitetura_
-191
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
-192
-​
-193
-##### Bloco 27: NodeJS
-194
-​
-195
-- [ ] 27-1: _Express: HTTP com Node.js_
-196
-- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
-197
-- [ ] 27​
-186
-##### Bloco 26: Intro - NodeJS
-187
-​
-188
-- [ ] 26-1: _NodeJS - Introdução_
-189
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-190
-- [ ] 26-3: _NodeJS - Arquitetura_
-191
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
-192
-​
-193
-##### Bloco 27: NodeJS
-194
-​
-195
-- [ ] 27-1: _Express: HTTP com Node.js_
-196
-- [ ] 27-2: _Arquitetura de Software - IntroduÃ§Ã£o ao MVC_
-197
-- [ ] 27-3: _[Projeto - Cookmaster]()_
-198
-​
-199
-##### Bloco 28: NodeJS
-200
-​
-201
-- [ ] 28-1: _Arquitetura de Software - Camada de ServiÃ§o_
-202
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-203
-- [ ] 28-3: _[Projeto - Store Manager]()_
-204
-​
-205
-##### Bloco 29: NodeJS-3: _[Projeto - Cookmaster]()_
-198
-​
-199
-##### Bloco 28: NodeJS
-200
-​
-201
-- [ ] 28-1: _Arquitetura de Software - Camada de ServiÃ§o_
-202
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-203
-- [ ] 28-3: _[Projeto - Store Manager]()_
-204
-​
-205
-##### Bloco 29: NodeJS-1: _Metodologias Ãgeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 15: Testes em React
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [:white_check_mark: ] 15-1: _Primeiros Passos_
+- [:white_check_mark: ] 15-2: _Mocks e Inputs_
+- [:white_check_mark: ] 15-3: _Testando inputs em React_
+- [:white_check_mark: ] 15-4: _[Projeto - Testes em React]()_
 
 ##### Bloco 16: IntroduÃ§Ã£o ao Redux
 
