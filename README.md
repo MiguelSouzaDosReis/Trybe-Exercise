@@ -116,25 +116,25 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:white_check_mark: ] 15-3: _Testando inputs em React_
 - [:white_check_mark: ] 15-4: _[Projeto - Testes em React]()_
 
-##### Bloco 16: IntroduÃ§Ã£o ao Redux
+##### Bloco 16: Introdução ao Redux
 
-- [ ] 16-1: _IntroduÃ§Ã£o ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - PrÃ¡tica_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes Assíncrono  com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [:white_check_mark: ] 16-1: _Introdução ao Redux_
+- [:white_check_mark: ] 16-2: _React com Redux - Parte 1_
+- [:white_check_mark: ] 16-3: _React com Redux - Prática_
+- [:white_check_mark: ] 16-4: _React com Redux - Parte 2_
+- [:white_check_mark: ] 16-5: _Testes Assíncrono  com React-Redux_
+- [:white_check_mark: ] 16-6: _[Projeto - Tabela com filtros de dados]()_
 
 ##### Bloco 17: Projeto React
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [:white_check_mark: ] 17-1: _[Projeto - Jogo de Trivia]()_
 
 ##### Bloco 18: React & Context API
 
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [:white_check_mark: ] 18-1: _Context API do React_
+- [:white_check_mark: ] 18-2: _React Hooks - useState e useContext_
+- [:white_check_mark: ] 18-3: _React Hooks - useEffect e Hooks customizados_
+- [:white_check_mark: ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
 ##### Bloco 19: Projeto Final de Front-end
 
