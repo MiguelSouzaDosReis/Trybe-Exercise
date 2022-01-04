@@ -1,0 +1,49 @@
+body {
+    font-size: large;
+}
+h1 {
+    font-size: small;
+}
+h2 {
+
+}
+
+img {
+    max-width: 100%;
+    
+}
+
+figure {
+    margin: 20px;
+    padding: 20px;
+}
+
+@media screen and (max-width: 500px) {
+    body {
+      background: rgba(160,160,160);
+      font-size: x-large;
+      margin: 20px;
+    }
+  
+    figure {
+      float: left;
+      width: 45%;
+      margin-right: 4.5%;
+    }
+  }
+
+  @media screen and (min-width: 1020px) {
+    body {
+      background: rgba(134, 236, 134, 0.2);
+      font-size: medium;
+      margin: 25px;
+      max-width: 1300pxpx;
+    }
+  
+    figure {
+      width: 30%;
+      margin-right: 2.5%;
+    }
+  }
+  
+  
