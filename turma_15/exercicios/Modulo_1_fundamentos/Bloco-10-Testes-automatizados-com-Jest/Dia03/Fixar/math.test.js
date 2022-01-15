@@ -2,7 +2,7 @@ const math = require('./math');
 jest.mock("./math");
 
 
-describe('' , () => {
+describe('pratica' , () => {
     it('somar' , () => {
 
         math.somar.mockImplementation((a, b) => a + b);

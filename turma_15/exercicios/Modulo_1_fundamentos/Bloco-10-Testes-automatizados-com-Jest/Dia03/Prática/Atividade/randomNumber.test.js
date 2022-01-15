@@ -1,5 +1,4 @@
 const service = require('./randomNumber');
-
 //Atividae 2
 
 test("testando se a função foi chamada, qual seu retorno e quantas vezes foi chamada", () => {
