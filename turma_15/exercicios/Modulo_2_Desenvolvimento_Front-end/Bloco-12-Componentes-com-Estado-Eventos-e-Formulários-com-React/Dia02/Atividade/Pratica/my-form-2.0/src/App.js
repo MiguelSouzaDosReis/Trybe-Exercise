@@ -3,7 +3,7 @@ import Form from './Form.js'
 function App() {
   return (
     <div>
- <Form />
+    <Form />
     </div>
   );
 }
