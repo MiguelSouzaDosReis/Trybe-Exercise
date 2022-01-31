@@ -87,4 +87,65 @@
 
 
 1. Quais constraints a coluna address_id poderia ter? Por quê?
+2. A coluna city_id é um número. Consegue identificar que tipo de constraint foi aplicado a ela?
+3. A coluna address (endereço) possui uma constraint . Qual tipo de constraint seria interessante ser aplicado a ela para que sempre exista um valor na coluna quando uma nova linha for criada?
+
+<table>
+   <tr>
+    <td>city_id</td>
+    <td>city</td>
+    <td>country_id</td>
+    <td>lalst_update</td>
+  </tr>
+     <tr>
+   <td>1</td>
+   <td>A Coruja (La Coruja)</td>
+   <td>87</td>
+   <td>2006-02-15 04:45:25</td>
+  </tr>
+     <tr>
+   <td>2</td>
+   <td>Abha</td>
+   <td>82</td>
+   <td>2006-02-15 04:45:25</td>
+  </tr>
+     <tr>
+   <td>3</td>
+   <td>Abu Dhabi</td>
+   <td>101</td>
+   <td>2006-02-15 04:45:25</td>
+  </tr>
+     <tr>
+   <td>4</td>
+   <td>Acua</td>
+   <td>60</td>
+   <td>2006-02-15 04:45:25</td>
+  </tr>
+     <tr>
+   <td>5</td>
+   <td>Adana</td>
+   <td>97</td>
+   <td>2006-02-15 04:45:25</td>
+  </tr>
+     <tr>
+   <td>6</td>
+   <td>Addis Abeba</td>
+   <td>31</td>
+   <td>2006-02-15 04:45:25</td>
+  </tr>
+     <tr>
+   <td>7</td>
+   <td>Aden</td>
+   <td>107</td>
+   <td>2006-02-15 04:45:25</td>
+  </tr>
+     <tr>
+   <td>8</td>
+   <td>Adoni</td>
+   <td>44</td>
+   <td>2006-02-15 04:45:25</td>
+  </tr>
+  
+</table>
+
                      
