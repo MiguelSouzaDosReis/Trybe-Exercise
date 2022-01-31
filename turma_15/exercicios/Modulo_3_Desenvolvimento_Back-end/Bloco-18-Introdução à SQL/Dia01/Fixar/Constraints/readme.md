@@ -1,4 +1,4 @@
-                                                 Exercícios de fixação
+                                                 Exercícios de fixação 1
 
 
 <table>
@@ -90,6 +90,8 @@
 2. A coluna city_id é um número. Consegue identificar que tipo de constraint foi aplicado a ela?
 3. A coluna address (endereço) possui uma constraint . Qual tipo de constraint seria interessante ser aplicado a ela para que sempre exista um valor na coluna quando uma nova linha for criada?
 
+
+                                                     Exercícios de fixação 2
 <table>
    <tr>
     <td>city_id</td>
@@ -145,7 +147,60 @@
    <td>44</td>
    <td>2006-02-15 04:45:25</td>
   </tr>
-  
 </table>
 
-                     
+1. Que tipo de constraint a coluna city_id possui?
+2. Qual é o motivo de a coluna country_id não possuir nomes de country (país)? Ela é algum tipo de chave primária ou estrangeira?   
+
+                                                  Exercícios de fixação 3
+                                                  
+<table>
+   <tr>
+    <td>film_id</td>
+    <td>category_id</td>
+    <td>lalst_update</td>
+  </tr>
+     <tr>
+   <td>1</td>
+   <td>6</td>
+   <td>2006-02-15  05:07:09</td>
+  </tr>
+     <tr>
+   <td>2</td>
+   <td>11</td>
+   <td>2006-02-15  05:07:09</td>
+  </tr>
+     <tr>
+   <td>3</td>
+   <td>6</td>
+   <td>2006-02-15  05:07:09</td>
+  </tr>
+     <tr>
+   <td>4</td>
+   <td>11</td>
+   <td>2006-02-15  05:07:09</td>
+  </tr>
+     <tr>
+   <td>5</td>
+   <td>8</td>
+   <td>2006-02-15  05:07:09</td>
+  </tr>
+     <tr>
+   <td>6</td>
+   <td>9</td>
+   <td>2006-02-15  05:07:09</td>
+  </tr>
+     <tr>
+   <td>7</td>
+   <td>5</td>
+   <td>2006-02-15  05:07:09</td>
+  </tr>
+     <tr>
+   <td>8</td>
+   <td>11</td>
+   <td>2006-02-15 05:07:09</td>
+  </tr>
+</table>
+
+1. Qual coluna possui uma primary key ?
+2. Qual coluna possui uma foreign key ?
