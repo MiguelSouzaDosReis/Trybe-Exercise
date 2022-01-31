@@ -87,10 +87,16 @@
 
 
 1. Quais constraints a coluna address_id poderia ter? Por quê?
+            
+        R: poderia ter um not null, tendo em vista que não contem valores nulos e UNIQUE tendo em vista que os valores são unicos e uma PRIMARY KEY
+           
 2. A coluna city_id é um número. Consegue identificar que tipo de constraint foi aplicado a ela?
-3. A coluna address (endereço) possui uma constraint . Qual tipo de constraint seria interessante ser aplicado a ela para que sempre exista um valor na coluna quando uma nova linha for criada?
 
+       R: not null, tendo em vista que não contem valores nulos
 
+4. A coluna address (endereço) possui uma constraint . Qual tipo de constraint seria interessante ser aplicado a ela para que sempre exista um valor na coluna quando uma nova linha for criada?
+
+        R: NOT NULL
                                                      Exercícios de fixação 2
 <table>
    <tr>
@@ -150,7 +156,13 @@
 </table>
 
 1. Que tipo de constraint a coluna city_id possui?
-2. Qual é o motivo de a coluna country_id não possuir nomes de country (país)? Ela é algum tipo de chave primária ou estrangeira?   
+
+       R: poderia ter um not null, tendo em vista que não contem valores nulos e UNIQUE tendo em vista que os valores são unicos e uma PRIMARY KEY
+
+3. Qual é o motivo de a coluna country_id não possuir nomes de country (país)? Ela é algum tipo de chave primária ou estrangeira?   
+
+        R: country_id  é uma FOREIGN KEY e por conta disso deve haver um tabela com os nomes dos país ao lado do seu id por isso country_id
+
 
                                                   Exercícios de fixação 3
                                                   
@@ -202,5 +214,10 @@
   </tr>
 </table>
 
-1. Qual coluna possui uma primary key ?
+1. Qual coluna possui uma primary key ? 
+      
+        R: film_id
+      
 2. Qual coluna possui uma foreign key ?
+
+        R: category_id
