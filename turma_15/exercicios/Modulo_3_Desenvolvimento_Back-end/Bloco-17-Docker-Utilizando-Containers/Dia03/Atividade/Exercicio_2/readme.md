@@ -1,0 +1,9 @@
+                                        Exercício 2
+
+1. Utilize a versão "3" no arquivo;
+
+2. Crie um service para subir a plataforma, utilize a imagem ghost:1-alpine ;
+
+3. Publique a porta 2368 , fazendo bind também para a 2368 ;
+
+4. Suba a aplicação utilizando o docker-compose e então acesse a porta publicada para validar se deu tudo certo.
