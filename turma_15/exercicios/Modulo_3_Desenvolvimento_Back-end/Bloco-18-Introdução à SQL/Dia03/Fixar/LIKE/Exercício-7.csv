@@ -1,0 +1,7 @@
+film_id,title,description,release_year,language_id,original_language_id,rental_duration,rental_rate,length,replacement_cost,rating,special_features,last_update
+96,"BREAKING HOME","A Beautiful Display of a Secret Agent And a Monkey who must Battle a Sumo Wrestler in An Abandoned Mine Shaft",2006,1,NULL,4,2.99,169,21.99,PG-13,"Trailers,Commentaries","2006-02-15 05:03:42"
+257,"DRUMLINE CYCLONE","A Insightful Panorama of a Monkey And a Sumo Wrestler who must Outrace a Mad Scientist in The Canadian Rockies",2006,1,NULL,3,0.99,110,14.99,G,"Commentaries,Deleted Scenes,Behind the Scenes","2006-02-15 05:03:42"
+444,"HUSTLER PARTY","A Emotional Reflection of a Sumo Wrestler And a Monkey who must Conquer a Robot in The Sahara Desert",2006,1,NULL,3,4.99,83,22.99,NC-17,"Trailers,Commentaries,Behind the Scenes","2006-02-15 05:03:42"
+721,"REDS POCUS","A Lacklusture Yarn of a Sumo Wrestler And a Squirrel who must Redeem a Monkey in Soviet Georgia",2006,1,NULL,7,4.99,182,23.99,PG-13,"Trailers,Behind the Scenes","2006-02-15 05:03:42"
+924,"UNFORGIVEN ZOOLANDER","A Taut Epistle of a Monkey And a Sumo Wrestler who must Vanquish a A Shark in A Baloon Factory",2006,1,NULL,7,0.99,129,15.99,PG,"Trailers,Commentaries,Behind the Scenes","2006-02-15 05:03:42"
+974,"WILD APOLLO","A Beautiful Story of a Monkey And a Sumo Wrestler who must Conquer a A Shark in A MySQL Convention",2006,1,NULL,4,0.99,181,24.99,R,"Trailers,Commentaries,Deleted Scenes,Behind the Scenes","2006-02-15 05:03:42"

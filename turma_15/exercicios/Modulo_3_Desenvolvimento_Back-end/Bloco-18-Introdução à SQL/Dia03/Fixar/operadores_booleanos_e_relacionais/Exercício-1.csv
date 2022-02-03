@@ -1,0 +1,2 @@
+customer_id,store_id,first_name,last_name,email,address_id,active,create_date,last_update
+405,1,LEONARD,SCHOFIELD,LEONARD.SCHOFIELD@sakilacustomer.org,410,1,"2006-02-14 22:04:37","2006-02-15 04:57:20"
