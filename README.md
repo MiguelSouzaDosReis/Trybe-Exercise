@@ -138,54 +138,56 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 19: Projeto Final de Front-end
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+- [:white_check_mark: ] 19-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: IntroduÃ§Ã£o - Bancos de dados relacionais
+##### Bloco 20: Docker: Utilizando Containers
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma especÃ­fica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [:white_check_mark: ] 20-1: _Introdução - Back-end_
+- [:white_check_mark: ] 20-2: _Utilizando  Containers - Docker_
+- [:white_check_mark: ] 20-3: _Manipulação e Criação de Imagens no Docker_
+- [:white_check_mark: ] 20-4: _Orquestrando Containers com Docker Compose_
+- [:white_check_mark: ] 20-5: _[Projeto - Docker Todo-List]()_
 
-##### Bloco 21: Bancos de dados relacionais
+##### Bloco 21: Introdução - Bancos de dados relacionais
 
-- [ ] 21-1: _FunÃ§Ãµes mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
+- [:white_check_mark: ] 21-1: _Banco de dados SQL_
+- [:white_check_mark: ] 21-2: _Encontrando dados em um banco de dados_
+- [:white_check_mark: ] 21-3: _Filtrando dados de forma especificação
+- [:white_check_mark: ] 21-4: _Manipulando tabelas_
+- [:white_check_mark: ] 21-5: _[Projeto - All For One]()_
 
 ##### Bloco 22: Bancos de dados relacionais
 
+- [:white_check_mark: ] 21-1: _Funções mais usadas no SQL_
+- [:white_check_mark: ] 21-2: _Descomplicando JOINs e UNIONs_
+- [:white_check_mark: ] 21-3: _Transformando ideias em um modele de banco de dados_
+- [:white_check_mark: ] 21-4: _[Projeto - One For All]()_
+
+##### Bloco 23: Introdução ao desenvolvimento Web com Node.js
+
 - [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _NormalizaÃ§Ã£o, Formas Normais e Dumps_
+- [ ] 22-2: _Normalização, Formas Normais e Dumps_
 - [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
 - [ ] 22-3: _[Projeto - One For All]()_
 
-##### Bloco 23: IntroduÃ§Ã£o - NoSQL
+##### Bloco 24: Introdução - NoSQL
 
-- [ ] 23-1: _MongoDB - IntroduÃ§Ã£o_
+- [ ] 23-1: _MongoDB - Introdução_
 - [ ] 23-2: _Filter Operators_
 - [ ] 23-3: _[Projeto - Data Flights]()_
 
-##### Bloco 24: Updates
+##### Bloco 25: Updates
 
 - [ ] 24-1: _Updates Simples_
 - [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
 - [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
 - [ ] 24-4: _[Projeto - Commerce]()_
 
-##### Bloco 25: Aggregation Framework
-
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
-
 ##### Bloco 26: Intro - NodeJS
 
-- [ ] 26-1: _NodeJS - IntroduÃ§Ã£o_
+- [ ] 26-1: _NodeJS - Introdução__
 - [ ] 26-2: _NodeJS - Fluxo Assíncrono_
 - [ ] 26-3: _NodeJS - Arquitetura_
 - [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
