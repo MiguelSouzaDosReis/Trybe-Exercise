@@ -1,0 +1,4 @@
+id,title,director,year,length_minutes,theater_id
+1,"Toy Story","John Lasseter",1995,81,1
+8,"Monstros SA","Pete Docter",2001,92,NULL
+11,WALL-E,"Pete Docter",2008,104,NULL

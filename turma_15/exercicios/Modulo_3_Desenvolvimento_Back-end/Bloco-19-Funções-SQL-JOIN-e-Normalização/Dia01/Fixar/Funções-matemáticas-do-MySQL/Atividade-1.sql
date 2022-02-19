@@ -1,0 +1,1 @@
+SELECT ROUND(RAND()*(20-15)+15);

@@ -1,0 +1,12 @@
+name,location,title,director,year,length_minutes
+NULL,NULL,Ratatuille,"Brad Bird",2010,115
+NULL,NULL,Carros,"John Lasseter",2006,117
+NULL,NULL,Valente,"Brenda Chapman",2012,98
+NULL,NULL,"Monstros SA","Pete Docter",2001,92
+NULL,NULL,"Os Incríveis","Brad Bird",2004,116
+NULL,NULL,WALL-E,"Pete Docter",2008,104
+"Brodway theater","Nova York",UP,"Pete Docter",2009,101
+Cinemark,"São Paulo","Toy Story","John Lasseter",1995,81
+"Le Champo",Paris,"Procurando Nemo","Jon Lasseter",2003,107
+"Phoenix theater",Londres,"Vida de inseto","Andrew Staton",1998,95
+"TLC Chinese Theater","Los Angeles","Toy Story 2","John Lasseter",1999,93

@@ -1,0 +1,7 @@
+name,location,title,director,year,length_minutes
+"Brodway theater","Nova York",UP,"Pete Docter",2009,101
+Cinemark,"São Paulo","Toy Story","John Lasseter",1995,81
+"Le Champo",Paris,"Procurando Nemo","Jon Lasseter",2003,107
+"Phoenix theater",Londres,"Vida de inseto","Andrew Staton",1998,95
+"Regal Tikahtnu",Alaska,NULL,NULL,NULL,NULL
+"TLC Chinese Theater","Los Angeles","Toy Story 2","John Lasseter",1999,93
