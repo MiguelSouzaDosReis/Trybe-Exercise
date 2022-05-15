@@ -1,0 +1,17 @@
+{
+  "name": "Bonus",
+  "version": "1.0.0",
+  "description": "Bônus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fatorial": "node fatorial.js",
+    "fibonacci": "node fibonacci.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
