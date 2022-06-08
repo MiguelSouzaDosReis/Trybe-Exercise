@@ -1,0 +1,6 @@
+use('fixar')
+
+db.restaurants.countDocuments({and: [ { borough: { $in: ['Queens', 'Staten Island', 'Brooklyn'] } },
+{ rating: { $gt: 4 } },
+    ],
+  });

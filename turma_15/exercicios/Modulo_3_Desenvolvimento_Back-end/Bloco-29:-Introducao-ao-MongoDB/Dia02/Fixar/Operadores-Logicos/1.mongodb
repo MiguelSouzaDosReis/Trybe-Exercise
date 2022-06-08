@@ -1,0 +1,3 @@
+use('fixar')
+
+db.restaurants.countDocuments({ rating: { $not: { $lte: 5 } }});

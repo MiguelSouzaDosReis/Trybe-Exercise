@@ -1,0 +1,3 @@
+use("fixar")
+
+db.restaurants.countDocuments({ rating: { $lt: 4 } });
