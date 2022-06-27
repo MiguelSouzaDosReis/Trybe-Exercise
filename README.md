@@ -86,7 +86,8 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 - [ :white_check_mark: ] 10-4: _[Projeto - Jest Assíncrono  e Mocking]()_
 </details open>
 
-## Desenvolvimento Front-end
+<details open>
+<summary> <strong> Desenvolvimento Front-end </strong> </summary>
 
 ##### Bloco 11: Introdução - React
 
@@ -141,8 +142,10 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 ##### Bloco 19: Projeto Final de Front-end
 
 - [ :white_check_mark: ] 19-1: _[Projeto - App de Receitas]()_
+</details open>
 
-## Desenvolvimento Back-end
+<details open>
+<summary> <strong> Desenvolvimento Back-end </strong> </summary>
 
 ##### Bloco 20: Docker: Utilizando Containers
 
@@ -245,10 +248,11 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 ##### Bloco 33: MasterClass - VPS, CI/CD
 
 - [ :white_check_mark: ] 33-1: _VPS_
+ </details open>
+ <details open>
+<summary> <strong> Ciência da Computação </strong> </summary>
 
-## Ciência  da Computação
-
-##### Bloco 35: Introdução- Ciência da Computação
+ ##### Bloco 35: Introdução- Ciência da Computação
 
 - [ ] 35-1: _Arquitetura de Computadores_
 - [ ] 35-2: _Arquitetura de redes_
@@ -262,3 +266,4 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 - [ ] 35-3: _Entrada e Saída de dados_
 - [ ] 36-4: _Entrada e Saída de dados_
 - [ ] 35-5: _[Projeto - Tech news]()_
+  </details open>
