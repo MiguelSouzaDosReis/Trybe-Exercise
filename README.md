@@ -1,5 +1,7 @@
 # Trybe
-Este é o repositório contam com todas as atividades de aprendizagem desenvolvidas por Miguel Souza dos Reis (https://www.linkedin.com/in/miguel-souza-dos-reis-089364217/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este é o repositório contam com todas as atividades de aprendizagem desenvolvidas por 
+__[Miguel Souza dos Reis](https://www.linkedin.com/in/miguel-souza-dos-reis/)__
+enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa são paga quando conseguir um bom trabalho."_
 
