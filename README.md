@@ -5,6 +5,7 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 >"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa são paga quando conseguir um bom trabalho. O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias agíeis e habilidades comportamentais."
 
+<details open>
 ## Fundamentos do Desenvolvimento Web 
 
 ##### Bloco 1: Introdução - Unix & Shell
@@ -83,8 +84,9 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 - [ :white_check_mark: ] 10-2: _Jest - Testes Assíncrono_
 - [ :white_check_mark: ] 10-3: _Jest - Simulando comportamentos_
 - [ :white_check_mark: ] 10-4: _[Projeto - Jest Assíncrono  e Mocking]()_
+</details open>
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end
 
 ##### Bloco 11: Introdução - React
 
@@ -140,7 +142,7 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 - [ :white_check_mark: ] 19-1: _[Projeto - App de Receitas]()_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end
 
 ##### Bloco 20: Docker: Utilizando Containers
 
@@ -244,7 +246,7 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 - [ :white_check_mark: ] 33-1: _VPS_
 
-## Ciência  da Computação :hourglass_flowing_sand:
+## Ciência  da Computação
 
 ##### Bloco 35: Introdução- Ciência da Computação
 
