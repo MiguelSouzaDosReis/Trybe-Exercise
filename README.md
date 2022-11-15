@@ -252,18 +252,45 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
  <details open>
 <summary> <strong> Ciência da Computação </strong> </summary>
 
- ##### Bloco 35: Introdução- Ciência da Computação
+ ##### Bloco 34: Introdução à Python
 
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
+- [ :white_check_mark: ] 34-1: _Aprendendo Python_
+- [ :white_check_mark: ] 34-2: _Entrada e Saída de Dados_
+- [ :white_check_mark: ] 34-3: _Testes_
+- [ :white_check_mark: ] 34-4: _[Projeto - Job Insights]()_
 
-##### Bloco 36: Python
+##### Bloco 35: Padrões de Projeto
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Excecuções_
-- [ ] 35-3: _Entrada e Saída de dados_
-- [ ] 36-4: _Entrada e Saída de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
+- [ :white_check_mark: ] 35-1: _P.O.O em Python_
+- [ :white_check_mark: ] 35-2: _Iterator, Adapter, Strategy_
+- [ :white_check_mark: ] 35-3: _Decorator, Observer, Factory_
+- [ :white_check_mark: ] 35-4: _[Projeto - Relatórios de Estoque]()_
+
+##### Bloco 36: Redes e Raspagem de Dados
+
+- [ :white_check_mark: ] 36-1: _Arquitetura de redes_
+- [ :white_check_mark: ] 36-2: _Raspagem de Dados_
+- [ :white_check_mark: ] 36-3: _Outras Ferramentas de Raspagem de Dados_
+- [ :white_check_mark: ] 36-5: _[Projeto - Tech news]()_
+
+##### Bloco 37: Algoritmos
+
+- [ :white_check_mark: ] 37-1: _Complexidade de Algoritmos_
+- [ :white_check_mark: ] 37-2: _Recursividade e Estratégias para solução de problemas_
+- [ :white_check_mark: ] 37-3: _Algoritmos de ordenação e busca_
+- [ :white_check_mark: ] 37-4: _[Projeto - Algoritmos]()_
+
+##### Bloco 38: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+
+- [ :white_check_mark: ] 38-1: _Arquitetura de Computadores_
+- [ :white_check_mark: ] 38-2: _Arrays_
+- [ :white_check_mark: ] 38-3: _Nó e Listas Encadeadas_
+- [ :white_check_mark: ] 38-4: _Pilhas e Filas_
+- [ :white_check_mark: ] 38-5: _[Projeto TING - Trybe Is Not Google]()_
+
+##### Bloco 39: Estrutura de Dados II: Hashmaps e Sets
+
+- [ :white_check_mark: ] 39-1: _Hashmap e Dict_
+- [ :white_check_mark: ] 39-2: _Set_
+- [ :white_check_mark: ] 39-3: _[Projeto - Restaurant Orders]()_
   </details open>
