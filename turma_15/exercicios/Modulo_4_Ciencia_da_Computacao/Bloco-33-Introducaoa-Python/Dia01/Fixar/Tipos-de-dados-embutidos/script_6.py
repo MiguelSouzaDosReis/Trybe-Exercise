@@ -1,7 +1,3 @@
-info = {
-  "personagem": "Margarida",
-  "origem": "Pato Donald",
-  "nota": "Namorada do personagem principal nos quadrinhos do Pato Donald",
-}
-info["recorrente"] = "Sim"
-print(info)
+trybe_course = ['Introdução', 'Front-end', 'Back-end', 'Ciência da Computação']
+trybe_course[0] = "Fundamentos"
+print(trybe_course)

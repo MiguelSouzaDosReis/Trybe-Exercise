@@ -1,30 +1,16 @@
-const mage = {
-  healthPoints: 130,
-  intelligence: 45,
-  mana: 125,
-  damage: undefined,
+const gameActions = {
+  warriorTurn: (warriorAttack) => {
+    const warriorDamage = warriorAttack(warrior);
+    warrior.damage = warriorDamage;
+    dragon.healthPoints -= warriorDamage;
+  },
+  dragonTurn: (dragonAttack) => {
+    const dragonDamage = dragonAttack(dragon);
+    mage.healthPoints -= dragonDamage;
+    warrior.healthPoints -= dragonDamage;
+    dragon.damage = dragonDamage;
+  },
 };
 
-const warrior = {
-  healthPoints: 200,
-  strength: 30,
-  weaponDmg: 2,
-  damage: undefined,
-};
-
-const dragon = {
-  healthPoints: 350,
-  strength: 50,
-  damage: undefined,
-};
-
-const battleMembers = { mage, warrior, dragon };
-
-const danoQueOWarriorDa = () => {
-  const { weaponDmg, strength } = warrior;
-  const max = strength * weaponDmg
-  let dano = Math.round((Math.random() * (max - strength) + strength));
-  console.log(dano) 
-}
-
-danoQueOWarriorDa()
+gameActions.warriorTurn(warriorAttack);
+gameActions.dragonTurn(dragonAttack);
