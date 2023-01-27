@@ -1,4 +1,4 @@
-                  Exercício 1
+                  						Exercicio-1
 
 1 - Crie uma store para a nossa aplicação.
 
