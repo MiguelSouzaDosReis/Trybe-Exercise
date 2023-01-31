@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+                                                       Atividade
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### 1. Para consumir nossa API vamos utilizar o hook customizado `useFetch`
 
-In the project directory, you can run:
+<details>
+<summary>Siga os passos para criar o Hook Customizado:</summary><br />
 
-### `npm start`
+> Dica: Lembre-se de olhar a lógica que já está implementada no arquivo `src/App.js` para criar o hook customizado
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Crie dentro da pasta hooks um arquivo `useFetch.js`. Vamos precisar dos hooks `useEffect` e `useState` para fazer a chamada a API e salvar o seu retorno.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. O Hook deverá receber como parâmetro a url para onde iremos fazer a requisição.
 
-### `npm test`
+3. Crie três estados:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   - um estado de carregando, para aguardar enquanto a requisição está sendo feita
+   - um estado para salvar o retorno da API
+   - e outro estado para caso haja algum error na requisição
 
-### `npm run build`
+4. Crie uma função para fazer o `fetch` da url recebida como parâmetro, utilize o `useEffect` para chamar essa função e faça o tratamento de erro.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. Retorne um objeto contento os três estados criados e a função que chama o `fetch()`.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Pronto o seu Hook Customizado está feito, agora utilize ele no `App.js` recebendo como parâmetro a url que gera pessoas aleatórias da api [Random User](https://randomuser.me/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> Atenção: lembre-se de refatorar o código implementado em `App.js` para que sua aplicação continue funcionando corretamente.
 
-### `npm run eject`
+</details>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Bônus
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 2. Para salvar a lista de pessoas aprovadas e reprovadas vamos utilizar o hook customizado `useLocalStorage`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<details>
+<summary>Crie um hook <code>useLocalStorage</code> para salvar cada uma das listas</summary><br />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Nossa aplicação renderiza pessoas aleatórias, onde é possível adiciona-las a lista de aprovadas ou reprovadas. Porém, os códigos estão duplicados e você deverá criar um hook customizado para eliminar essas duplicidades.
 
-## Learn More
+> Dica: Lembre-se de olhar a lógica que já está implementada no arquivo `src/App.js` para criar o hook customizado
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Crie o hook customizado `useLocalStorage` dentro da pasta hooks.
+2. Esse hook deverá receber como parâmetro a chave do item que será salvo no localStorage e o valor inicial desse item.
+3. O hook deverá possuir:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   - um estado para salvar o valor do item (inicialmente deve ser ou o valor salvo no localStorage ou o valor inicial passado como parâmetro)
+   - uma função para atualizar o valor do estado e salvar no localStorage
+   - uma função para remover a chave do localStorage e resetar o estado para o valor inicial
 
-### Code Splitting
+4. Retorne um array com o valor do estado e as duas funções criadas.s
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+> Atenção: lembre-se de refatorar o código implementado em `App.js` para que sua aplicação continue funcionando corretamente.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</details>
