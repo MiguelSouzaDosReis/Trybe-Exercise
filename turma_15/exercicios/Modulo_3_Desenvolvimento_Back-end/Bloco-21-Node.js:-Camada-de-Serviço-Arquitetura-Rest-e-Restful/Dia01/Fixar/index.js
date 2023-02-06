@@ -1,10 +1,10 @@
 const express = require('express');
 const bodyParser = require('body-parser')
-const Books = require('./models/Books')
+const Books = require('./Books')
 require('dotenv').config();
 
 const app = express();
-app.use(bodyParser.json())    
+app.use(bodyParser.json())
 
 const PORT = process.env.PORT;;
 

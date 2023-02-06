@@ -1,0 +1,8 @@
+filmes_id,genero_id,genero,valor_entrada
+1,1,Ação,27.90
+2,2,Biográfico,30.70
+3,2,Biográfico,26.25
+4,3,Comédia,17.80
+5,4,Drama,21.50
+6,4,Drama,18.00
+7,5,"Comédia romântica",15.75
