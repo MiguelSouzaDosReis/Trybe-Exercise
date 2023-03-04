@@ -25,7 +25,7 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 - [ :white_check_mark: ] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [ :white_check_mark: ] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [ :white_check_mark: ] 3-4: _HTML Semântico_
-- [ :white_check_mark: ] 3-5: _[Projeto - HTML & CSS]()_
+- [ :white_check_mark: ] 3-5: _[Projeto - HTML & CSS](https://github.com/MiguelSouzaDosReis/Project-Lessons-Learned)_
 
 ##### Bloco 4: Introdução - JavaScript
 
