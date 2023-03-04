@@ -33,7 +33,7 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 - [ :white_check_mark: ]  4-2: _JavaScript - Array e loop For_
 - [ :white_check_mark: ]  4-3: _JavaScript - Logica de Programação e Algoritmos_
 - [ :white_check_mark: ]  4-4: _JavaScript - Objetos e funções_
-- [ :white_check_mark: ]  4-5: _[Projeto - Playground Functions]()_
+- [ :white_check_mark: ]  4-5: _[Projeto - Playground Functions](https://github.com/MiguelSouzaDosReis/Project-Playground-Functions)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
@@ -41,11 +41,8 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 - [ :white_check_mark: ] 5-2: _JavaScript - Trabalhando com elementos_
 - [ :white_check_mark: ] 5-3: _JavaScript - Eventos_
 - [ :white_check_mark: ] 5-4: _JavaScript - Web Storage_
-- [ :white_check_mark: ] 5-5: _[Projeto - Arte com Pixels]()_
-- [ :white_check_mark: ] 5-6: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Meme Generator]()_
-- [ ] 5-8: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-9: _[Projeto - Carta Misteriosa]()_
+- [ :white_check_mark: ] 5-5: _[Projeto - Arte com Pixels](https://github.com/MiguelSouzaDosReis/Project-Pixels-Art)_
+- [ :white_check_mark: ] 5-6: _[Projeto - Lista de tarefas](https://github.com/MiguelSouzaDosReis/Project-Todo-List)_
 
 ##### Bloco 6: HTML & CSS avançado
 
@@ -54,14 +51,14 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 - [ :white_check_mark: ] 6-3: _CSS Flexbox - Part 1_
 - [ :white_check_mark: ] 6-4: _CSS Flexbox - Part 2_
 - [ :white_check_mark: ] 6-5: _CSS Responsivo - Mobile First_
-- [ :white_check_mark: ] 6-6: _[Projeto - Trybewarts]()_
+- [ :white_check_mark: ] 6-6: _[Projeto - Trybewarts](https://github.com/MiguelSouzaDosReis/Project-Trybewarts)_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
 - [ :white_check_mark: ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ :white_check_mark: ] 7-2: _JavaScript ES6 - Objects_
 - [ :white_check_mark: ] 7-3: _Testes unitários em JavaScript_
-- [ :white_check_mark: ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [ :white_check_mark: ] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/MiguelSouzaDosReis/Project-Unit-Test)_
 
 ##### Bloco 8: JavaScript ES6
 
@@ -70,20 +67,20 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 - [ :white_check_mark: ] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [ :white_check_mark: ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [ :white_check_mark: ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ :white_check_mark: ] 8-6: _[Projeto - Zoo functions]()_
+- [ :white_check_mark: ] 8-6: _[Projeto - Zoo functions](https://github.com/MiguelSouzaDosReis/Project-Zoo-Functions)_
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
 - [ :white_check_mark: ] 9-1: _JavaScript Assíncrono  e Callbacks_
 - [ :white_check_mark: ] 9-2: _JavaScript Promises_
-- [ :white_check_mark: ] 9-3: _[Projeto - Carrinho de Compras]()_
+- [ :white_check_mark: ] 9-3: _[Projeto - Carrinho de Compras](https://github.com/MiguelSouzaDosReis/Project-Shopping-Cart)_
 
 ##### Bloco 10: Jest
 
 - [ :white_check_mark: ] 10-1: _Primeiros passos no Jest_
 - [ :white_check_mark: ] 10-2: _Jest - Testes Assíncrono_
 - [ :white_check_mark: ] 10-3: _Jest - Simulando comportamentos_
-- [ :white_check_mark: ] 10-4: _[Projeto - Jest Assíncrono  e Mocking]()_
+- [ :white_check_mark: ] 10-4: _[Projeto - Jest Assíncrono  e Mocking](https://github.com/MiguelSouzaDosReis/Project-Jest)_
 </details open>
 
 <details open>
@@ -93,31 +90,32 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 - [ :white_check_mark: ] 11-1: _'Hello, world!' no React!_
 - [ :white_check_mark: ] 11-2: _Componentes React_
-- [ :white_check_mark: ] 11-3: _[Projeto - Movie Cards Library]()_
+- [ :white_check_mark: ] 11-3: _[Projeto - Movie Cards Library](https://github.com/MiguelSouzaDosReis/Project-Movies-Cards-Library)_
 
-##### Bloco 12: React
+##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 
 - [ :white_check_mark: ] 12-1: _Components com estado_
 - [ :white_check_mark: ] 12-2: _Eventos e Formulários no React_
-- [ :white_check_mark: ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [ :white_check_mark: ] 12-3: _[Projeto - Tryunfo](https://github.com/MiguelSouzaDosReis/Project-Tryunfo)_
 
-##### Bloco 13: React
+##### Bloco 13: Ciclo de Vida de Componentes e React Router
 
 - [ :white_check_mark: ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
 - [ :white_check_mark: ] 13-2: _Ciclo de vida de componentes em React_
 - [ :white_check_mark: ] 13-3: _React Router_
-- [ :white_check_mark: ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [ :white_check_mark: ] 13-4: _[Projeto - Trybetunes](https://github.com/MiguelSouzaDosReis/Project-Trybetunes)_
 
 ##### Bloco 14: Metodologias Ágeis
 
 - [ :white_check_mark: ] 14: _Metodologias Ágeis_
+- [ :white_check_mark: ] 13-4: _[Projeto - Frontend-Online-Store](https://github.com/MiguelSouzaDosReis/Project-Frontend-Online-Store)
 
 ##### Bloco 15: Testes em React
 
 - [ :white_check_mark: ] 15-1: _Primeiros Passos_
 - [ :white_check_mark: ] 15-2: _Mocks e Inputs_
 - [ :white_check_mark: ] 15-3: _Testando inputs em React_
-- [ :white_check_mark: ] 15-4: _[Projeto - Testes em React]()_
+- [ :white_check_mark: ] 15-4: _[Projeto - Testing-Library](https://github.com/MiguelSouzaDosReis/Project-Testing-Library)_
 
 ##### Bloco 16: Introdução ao Redux
 
@@ -126,18 +124,18 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 - [ :white_check_mark: ] 16-3: _React com Redux - Prática_
 - [ :white_check_mark: ] 16-4: _React com Redux - Parte 2_
 - [ :white_check_mark: ] 16-5: _Testes Assíncrono  com React-Redux_
-- [ :white_check_mark: ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [ :white_check_mark: ] 16-6: _[Projeto - Trybewallet](https://github.com/MiguelSouzaDosReis/Project-Trybewallet)_
 
 ##### Bloco 17: Projeto React
 
-- [ :white_check_mark: ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [ :white_check_mark: ] 17-1: _[Projeto - Jogo de Trivia](https://github.com/MiguelSouzaDosReis/Project-Trivia-React-Redux)_
 
 ##### Bloco 18: React & Context API
 
 - [ :white_check_mark: ] 18-1: _Context API do React_
 - [ :white_check_mark: ] 18-2: _React Hooks - useState e useContext_
 - [ :white_check_mark: ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ :white_check_mark: ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [ :white_check_mark: ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/MiguelSouzaDosReis/Project-Starwars-Planets)_
 
 ##### Bloco 19: Projeto Final de Front-end
 
