@@ -90,7 +90,7 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 - [ :white_check_mark: ] 11-1: _'Hello, world!' no React!_
 - [ :white_check_mark: ] 11-2: _Componentes React_
-- [ :white_check_mark: ] 11-3: _[Projeto - Movie Cards Library](https://github.com/MiguelSouzaDosReis/Project-Movies-Cards-Library)_
+- [ :white_check_mark: ] 11-3: _[Projeto - Movie Cards Library](https://github.com/MiguelSouzaDosReis/Project-Movie-Cards-Library)_
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 
