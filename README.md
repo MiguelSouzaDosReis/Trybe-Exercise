@@ -108,7 +108,7 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 ##### Bloco 14: Metodologias Ágeis
 
 - [ :white_check_mark: ] 14: _Metodologias Ágeis_
-- [ :white_check_mark: ] 13-4: _[Projeto - Frontend-Online-Store](https://github.com/MiguelSouzaDosReis/Project-Frontend-Online-Store)
+- [ :white_check_mark: ] 13-4: _[Projeto - Frontend-Online-Store](https://github.com/MiguelSouzaDosReis/Project-Frontend-Online-Store)_
 
 ##### Bloco 15: Testes em React
 
