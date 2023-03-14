@@ -1,7 +1,8 @@
 # Trybe
 Este é o repositório contam com todas as atividades de aprendizagem desenvolvidas por 
 __[Miguel Souza dos Reis](https://www.linkedin.com/in/miguel-souza-dos-reis/)__
-enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:], O mesmo já se formou e se tornou um programador Full Stack da Trybe, recebendo até um 
+diploma de conclusão do curso
 
 >"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa são paga quando conseguir um bom trabalho. O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias agíeis e habilidades comportamentais."
 
