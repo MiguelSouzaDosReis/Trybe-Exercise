@@ -2,17 +2,17 @@
 Este é o repositório contam com todas as atividades de aprendizagem desenvolvidas por 
 __[Miguel Souza dos Reis](https://www.linkedin.com/in/miguel-souza-dos-reis/)__
 enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:, O mesmo já se formou e se tornou um programador Full Stack da Trybe, recebendo até um 
-<details open>
+<details close>
  <summary> <strong> Diploma do Formação do Desenvolvimento Web e Conclusão do curso  </strong> </summary> 
   <p align="left">
     <img src="/.Diplomas/Formação-Desenvolvimento-Web.png" alt="Diploma de Formação do Desenvolvimento Web" width="600"/>
   </p>
-</details open>
+</details close>
 
 
 >"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa são paga quando conseguir um bom trabalho. O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias agíeis e habilidades comportamentais."
 
-<details open>
+<details close>
  <summary> <strong> Fundamentos do Desenvolvimento Web  </strong> </summary> 
 
 ##### Bloco 1: Introdução - Unix & Shell
@@ -89,16 +89,16 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:, O mesmo já se 
 - [ :white_check_mark: ] 10-3: _Jest - Simulando comportamentos_
 - [ :white_check_mark: ] 10-4: _[Projeto - Jest Assíncrono  e Mocking](https://github.com/MiguelSouzaDosReis/Project-Jest)_
 
-<details open>
+<details close>
  <summary> <strong> Diploma do Fundamento do Desenvolvimento Web  </strong> </summary> 
   <p align="left">
     <img src="/.Diplomas/Fundamentos.png" alt="Diploma do Fundamento do Desenvolvimento Web" width="600"/>
   </p>
-</details open>
+</details close>
 
-</details open>
+</details close>
 
-<details open>
+<details close>
 <summary> <strong> Desenvolvimento Front-end </strong> </summary>
 
 ##### Bloco 11: Introdução - React
@@ -156,16 +156,16 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:, O mesmo já se 
 
 - [ :white_check_mark: ] 19-1: _[Projeto - App de Receitas](https://github.com/MiguelSouzaDosReis/Project-Recipes-App)_
 
-<details open>
+<details close>
  <summary> <strong> Diploma do Front-end  </strong> </summary> 
   <p align="left">
     <img src="/.Diplomas/Front-end.png" alt="Diploma do Front-end" width="600"/>
   </p>
-</details open>
+</details close>
 
-</details open>
+</details close>
 
-<details open>
+<details close>
 <summary> <strong> Desenvolvimento Back-end </strong> </summary>
 
 ##### Bloco 20: Docker: Utilizando Containers
@@ -271,15 +271,15 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:, O mesmo já se 
 
 - [ :white_check_mark: ] 33-1: _VPS_
 
-<details open>
+<details close>
  <summary> <strong> Diploma do Back-end  </strong> </summary> 
   <p align="left">
     <img src="/.Diplomas/Back-end.png" alt="Diploma do Back-end" width="600"/>
   </p>
-</details open>
+</details close>
 
- </details open>
- <details open>
+ </details close>
+ <details close>
 <summary> <strong> Ciência da Computação </strong> </summary>
 
  ##### Bloco 34: Introdução à Python
@@ -324,10 +324,10 @@ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:, O mesmo já se 
 - [ :white_check_mark: ] 39-2: _Set_
 - [ :white_check_mark: ] 39-3: _[Projeto - Restaurant Orders](https://github.com/MiguelSouzaDosReis/Project-Restaurant-Orders)_
 
-<details open>
+<details close>
  <summary> <strong> Diploma de Ciência da Computação  </strong> </summary> 
   <p align="left">
     <img src="/.Diplomas/Ciência.png" alt="Diploma da Ciência da Computação" width="600"/>
   </p>
-</details open>
-  </details open>
+</details close>
+  </details close>
