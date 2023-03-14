@@ -1,4 +1,4 @@
-# Trybe
+# Trybe-exercise
 Este é o repositório contam com todas as atividades de aprendizagem desenvolvidas por 
 __[Miguel Souza dos Reis](https://www.linkedin.com/in/miguel-souza-dos-reis/)__
 enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:, O mesmo já se formou e se tornou um programador Full Stack da Trybe, recebendo até um 
