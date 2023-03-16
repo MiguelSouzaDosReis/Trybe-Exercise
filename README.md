@@ -1,5 +1,5 @@
 # Trybe-Exercise
-Este é o repositório com todas as atividades de aprendizagem desenvolvidas por mim Miguel Souza dos Reis enquanto estudava na Trybe 🚀. Eu já se me formei em programação Full Stack pela Trybe, recebendo até um
+Este é o repositório com todas as atividades de aprendizagem desenvolvidas por mim Miguel Souza dos Reis enquanto estudava na Trybe 🚀. Eu já se me formei em programação Full Stack pela __[Trybe](https://www.betrybe.com/)__, recebendo até um
 <details close>
  <summary> <strong> Diploma do Formação do Desenvolvimento Web e Conclusão do curso  </strong> </summary> 
   <p align="left">
