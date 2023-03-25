@@ -178,7 +178,7 @@ Este é o repositório com todas as atividades de aprendizagem desenvolvidas por
 
 - [ :white_check_mark: ] 21-1: _Banco de dados SQL_
 - [ :white_check_mark: ] 21-2: _Encontrando dados em um banco de dados_
-- [ :white_check_mark: ] 21-3: _Filtrando dados de forma especificação
+- [ :white_check_mark: ] 21-3: _Filtrando dados de forma especificação_
 - [ :white_check_mark: ] 21-4: _Manipulando tabelas_
 - [ :white_check_mark: ] 21-5: _[Projeto - All For One](https://github.com/MiguelSouzaDosReis/Project-Mysql-All-For-One)_
 
