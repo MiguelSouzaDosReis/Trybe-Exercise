@@ -1,6 +1,6 @@
 # Trybe-Exercise
 Este é o repositório com todas as atividades de aprendizagem desenvolvidas por mim Miguel Souza dos Reis enquanto estudava na Trybe 🚀. Eu já se me formei em programação Full Stack pela __[Trybe](https://www.betrybe.com/)__, recebendo até um
-<details close>
+<details open>
  <summary> <strong> Diploma do Formação do Desenvolvimento Web e Conclusão do curso  </strong> </summary> 
   <p align="left">
     <img src="/.Diplomas/Formação-Desenvolvimento-Web.png" alt="Diploma de Formação do Desenvolvimento Web" width="600"/>
@@ -87,7 +87,7 @@ Este é o repositório com todas as atividades de aprendizagem desenvolvidas por
 - [ :white_check_mark: ] 10-3: _Jest - Simulando comportamentos_
 - [ :white_check_mark: ] 10-4: _[Projeto - Jest Assíncrono  e Mocking](https://github.com/MiguelSouzaDosReis/Project-Jest)_
 
-<details close align="center" >
+<details open align="center" >
   <summary> <strong> Diploma do Fundamento do Desenvolvimento Web </strong> </summary> 
   <p align="center">
     <img src="/.Diplomas/Fundamentos.png" alt="Diploma do Fundamento do Desenvolvimento Web" width="600"/>
@@ -154,7 +154,7 @@ Este é o repositório com todas as atividades de aprendizagem desenvolvidas por
 
 - [ :white_check_mark: ] 19-1: _[Projeto - App de Receitas](https://github.com/MiguelSouzaDosReis/Project-Recipes-App)_
 
-<details close align="center">
+<details open align="center">
  <summary> <strong> Diploma do Front-end  </strong> </summary> 
   <p align="center">
     <img src="/.Diplomas/Front-end.png" alt="Diploma do Front-end" width="600"/>
@@ -269,7 +269,7 @@ Este é o repositório com todas as atividades de aprendizagem desenvolvidas por
 
 - [ :white_check_mark: ] 33-1: _VPS_
 
-<details close align="center">
+<details open align="center">
  <summary> <strong> Diploma do Back-end  </strong> </summary> 
   <p align="center">
     <img src="/.Diplomas/Back-end.png" alt="Diploma do Back-end" width="600"/>
@@ -322,7 +322,7 @@ Este é o repositório com todas as atividades de aprendizagem desenvolvidas por
 - [ :white_check_mark: ] 39-2: _Set_
 - [ :white_check_mark: ] 39-3: _[Projeto - Restaurant Orders](https://github.com/MiguelSouzaDosReis/Project-Restaurant-Orders)_
 
-<details close align="center">
+<details open align="center">
  <summary> <strong> Diploma de Ciência da Computação  </strong> </summary> 
   <p align="center">
     <img src="/.Diplomas/Ciência.png" alt="Diploma da Ciência da Computação" width="600"/>
