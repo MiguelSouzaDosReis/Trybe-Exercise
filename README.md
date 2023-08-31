@@ -10,7 +10,7 @@ Este é o repositório com todas as atividades de aprendizagem desenvolvidas por
 
 >"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa são paga quando conseguir um bom trabalho. O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias agíeis e habilidades comportamentais."
 
-<details close>
+<details open>
  <summary> <strong> Fundamentos do Desenvolvimento Web  </strong> </summary> 
 
 ##### Bloco 1: Introdução - Unix & Shell
@@ -96,7 +96,7 @@ Este é o repositório com todas as atividades de aprendizagem desenvolvidas por
 
 </details close>
 
-<details close>
+<details open>
 <summary> <strong> Desenvolvimento Front-end </strong> </summary>
 
 ##### Bloco 11: Introdução - React
@@ -163,7 +163,7 @@ Este é o repositório com todas as atividades de aprendizagem desenvolvidas por
 
 </details close>
 
-<details close>
+<details open>
 <summary> <strong> Desenvolvimento Back-end </strong> </summary>
 
 ##### Bloco 20: Docker: Utilizando Containers
@@ -277,7 +277,7 @@ Este é o repositório com todas as atividades de aprendizagem desenvolvidas por
 </details close>
 
  </details close>
- <details close>
+ <details open>
 <summary> <strong> Ciência da Computação </strong> </summary>
 
  ##### Bloco 34: Introdução à Python
